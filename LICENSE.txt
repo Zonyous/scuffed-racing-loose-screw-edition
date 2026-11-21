@@ -1,0 +1,15 @@
+SCUFFED RACING: LOOSE SCREW EDITION — FREE-OF-CHARGE RELEASE TERMS
+
+To the extent the creator holds the necessary rights, permission is granted to download, install, run, inspect and make personal backup copies of the official Windows release free of charge. No license fee, royalty, subscription, donation or purchase is required to access or play it.
+
+You may share the unmodified official Windows release archive free of charge if you keep all included notices and accurately identify the project. This permission does not authorize charging for access, selling the archive, placing it behind a paid subscription, or implying manufacturer endorsement.
+
+Other rights are reserved by the respective rights holders. No general open-source or stock-asset reuse license is granted. Obtain permission before using the project's artwork in other products, distributing modified versions or separately redistributing individual model/source files. Development source and editable artwork are not provided in this public repository.
+
+Third-party components retain their own licenses. The Windows ZIP includes Godot Engine's license and third-party library notices. Those licenses apply to their respective components, not automatically to the game's original vehicle designs or other project material. Applicable third-party license rights are unaffected by these terms.
+
+These notices do not establish ownership of or grant rights in third-party reference material, designs or trademarks.
+
+EARLY-ACCESS SOFTWARE AND LIMITS
+
+To the extent permitted by applicable law, the release is supplied as-is, without a promise that it is error-free or suitable for a particular purpose. Back up saves before updates. These terms do not exclude rights that cannot lawfully be excluded. Free distribution and disclaimers do not certify legal clearance or guarantee immunity from third-party claims.
