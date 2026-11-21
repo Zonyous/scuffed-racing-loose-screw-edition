@@ -1,6 +1,6 @@
 # Scuffed Racing: Loose Screw Edition
 
-**[Download and play — Windows 64-bit (free)](https://github.com/Zonyous/scuffed-racing-loose-screw-edition/releases/download/v0.1.0/Scuffed-Racing-0.1.0-Windows-x86_64-publication.zip)**
+**[Download and play — Windows 64-bit (free)](https://github.com/Zonyous/scuffed-racing-loose-screw-edition/releases/download/v0.1.1/Scuffed-Racing-0.1.1-Windows-x86_64-publication.zip)**
 
 An offline racing management game about building a garage from a battered starter, managing pace and wear, and surviving longer than your machinery.
 
@@ -12,9 +12,11 @@ An offline racing management game about building a garage from a battered starte
 
 No Godot, Python, paid account, subscription, donation or purchase is required. In-game shops use fictional earned credits with no cash value. The executable is unsigned; download it only from this official repository.
 
-Version **0.1.0 — early access**, Windows x86_64. Includes 75 cars, 108 parts, 35 races, four championships, infinite Dakar Survival, six local careers and settings.
+Version **0.1.1 — early access**, Windows x86_64. Includes 75 cars, 108 parts, 35 races, four championships, infinite Dakar Survival, six local careers and settings.
 
 ## Playing and saves
+
+On first launch, choose **CREATE YOUR FIRST CAREER**. Slots start empty; the game does not automatically create a career or import saves from nearby files. Existing saved careers are preserved when updating. An unwanted career created by 0.1.0 can be deleted through Career Manager.
 
 Use Garage to choose a car, Market to buy cars, Workshop to fit parts, Races for individual events and Champs for championships and Dakar. During races, manage Safe, Normal or Attack pace, fuel and wear.
 
@@ -29,7 +31,7 @@ The only attached game download is the playable Windows ZIP. Source code, editab
 Windows ZIP SHA-256:
 
 ```text
-bc21be93985e1105995a826a466a9802e5fc2687a257c93ce856bb3a66d4ca3d
+eb940acfc7c50510f4cadc3d5fbac48d1a6f58081cc6382ad0c554804e645b71
 ```
 
 ## Credits and notices
