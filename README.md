@@ -1,6 +1,6 @@
 # Scuffed Racing: Loose Screw Edition
 
-**[Download and play — Windows 64-bit (free)](https://github.com/Zonyous/scuffed-racing-loose-screw-edition/releases/download/v0.1.1/Scuffed-Racing-0.1.1-Windows-x86_64-publication.zip)**
+**[Download and play — Windows 64-bit (free)](https://github.com/Zonyous/scuffed-racing-loose-screw-edition/releases/download/v0.1.2/Scuffed-Racing-0.1.2-Windows-x86_64-publication.zip)**
 
 An offline racing management game about building a garage from a battered starter, managing pace and wear, and surviving longer than your machinery.
 
@@ -12,7 +12,11 @@ An offline racing management game about building a garage from a battered starte
 
 No Godot, Python, paid account, subscription, donation or purchase is required. In-game shops use fictional earned credits with no cash value. The executable is unsigned; download it only from this official repository.
 
-Version **0.1.1 — early access**, Windows x86_64. Includes 75 cars, 108 parts, 35 races, four championships, infinite Dakar Survival, six local careers and settings.
+Version **0.1.2 — early access**, Windows x86_64. Includes 75 cars, 108 parts, 35 races, four championships, infinite Dakar Survival, six local careers and settings.
+
+Version 0.1.2 adds a persistent wallet, clearer purchase and shortfall labels, higher-contrast controls, visible keyboard focus, and a compact race display for smaller windows.
+
+[Download on itch.io](https://zonyous.itch.io/scuffed-racing)
 
 ## Playing and saves
 
@@ -31,7 +35,7 @@ The only attached game download is the playable Windows ZIP. Source code, editab
 Windows ZIP SHA-256:
 
 ```text
-eb940acfc7c50510f4cadc3d5fbac48d1a6f58081cc6382ad0c554804e645b71
+81b094267fc45dd1a02db698c5411d02b68f471e620c5ca7444ac25175e4d886
 ```
 
 ## Credits and notices
